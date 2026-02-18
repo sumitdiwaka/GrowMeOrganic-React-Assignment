@@ -1,7 +1,7 @@
 Art Institute of Chicago - Data Gallery
 A high-performance React application built with Vite, TypeScript, and PrimeReact. This project implements server-side pagination and a persistent, virtual row selection system to explore the Art Institute of Chicago's collection.
 
-🚀 Live Demo
+🚀 Live Demo:-https://growmeorganic-react-assignment-intern.netlify.app/
 
 
 🛠️ Tech Stack
@@ -45,6 +45,7 @@ Clone the repository:
 
 Bash
 git clone
+https://github.com/sumitdiwaka/GrowMeOrganic-React-Assignment
 cd GrowMeOrganic-React-Assignment
 Install dependencies:
 
